@@ -1,0 +1,5 @@
+outs:
+- md5: 62fd81ac18c7f64381a21f16bff5e6b3
+  size: 21143
+  hash: md5
+  path: Assignment.ipynb
